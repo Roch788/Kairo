@@ -20,8 +20,8 @@ Your AI-powered coding assistant — ask questions, plan features, and execute c
 ### Install
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/openclaw.git
-cd openclaw
+git clone https://github.com/YOUR_USERNAME/kairo.git
+cd kairo
 bun install
 ```
 

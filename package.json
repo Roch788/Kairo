@@ -1,5 +1,5 @@
 {
-  "name": "openclaw",
+  "name": "kairo",
   "module": "index.ts",
   "type": "module",
   "private": true,

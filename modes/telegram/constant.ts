@@ -1,5 +1,5 @@
 export const WELCOME = [
-  "👋 Hi! I'm *OpenClaw*, your AI coding assistant.",
+  "👋 Hi! I'm *Kairo*, your AI coding assistant.",
   "",
   "Commands:",
   "🔍 /ask   — Ask about your codebase",
