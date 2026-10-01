@@ -1,0 +1,25 @@
+# Question
+
+www.chatgpt.com what is this?
+
+# Answer
+
+**www.chatgpt.com** is the official website for **ChatGPT**, an AI-powered conversational assistant developed by **OpenAI**.
+
+### What you can do there:
+- **Chat with AI models** (like GPT-4o, GPT-4, GPT-3.5) in a conversational interface
+- **Ask questions**, get explanations, brainstorm ideas, write code, analyze text/images, and more
+- **Use tools** like web browsing, code execution, image generation (DALL·E), and file analysis (with Plus/Pro plans)
+- **Manage your account**, chat history, and settings
+- **Access via web browser** (no installation needed) — also available as mobile/desktop apps
+
+### Quick facts:
+| Detail | Info |
+|--------|------|
+| **Owner** | OpenAI |
+| **Launched** | November 30, 2022 |
+| **Models available** | GPT-4o, GPT-4o mini, GPT-4, GPT-3.5 (varies by plan) |
+| **Free tier** | Yes (with usage limits) |
+| **Paid tiers** | Plus ($20/mo), Pro ($200/mo), Team, Enterprise |
+
+If you visit the site, you'll land on a chat interface where you can start typing immediately (sign-up required for full features).
