@@ -20,8 +20,8 @@ Your AI-powered coding assistant — ask questions, plan features, and execute c
 ### Install
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/kairo.git
-cd kairo
+git clone https://github.com/Roch788/Kairo.git
+cd Kairo
 bun install
 ```
 
